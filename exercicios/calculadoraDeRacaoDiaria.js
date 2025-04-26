@@ -12,3 +12,4 @@ console.log(`Nome do dog: ${nomeDog}`)
 console.log(`Peso: ${pesoDog} kg`)
 console.log(`Gramas por dia: ${qtdRacaoPorDia}  g`)
 console.log(`Duração do estoque: ${diasEstoque} dias`)
+

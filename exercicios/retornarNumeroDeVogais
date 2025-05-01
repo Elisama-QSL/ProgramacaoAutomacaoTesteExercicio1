@@ -1,0 +1,18 @@
+
+// 1. Crie uma função que retorne o número de vogais de uma string.
+
+const retornarNumeroDeVogais = () => {
+        const nome = "Colecione memórias e acumule sorrisos. Todo o resto é passageiro."
+        const vogais = "aeiouAEIOU"
+        let contador = 0
+        for (let i = 0; i < nome.length; i++) {
+            if (vogais.includes(nome[i])) {
+                contador++
+            }
+       }   
+        return (`A frase é: ${nome} \nO número de vogais é:${contador}`)
+
+
+} 
+
+console.log(retornarNumeroDeVogais())

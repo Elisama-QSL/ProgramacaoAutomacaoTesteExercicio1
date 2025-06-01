@@ -9,4 +9,3 @@ export {
     DOGS
 }
 
-//43:07

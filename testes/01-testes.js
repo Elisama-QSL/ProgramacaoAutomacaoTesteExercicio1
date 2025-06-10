@@ -26,6 +26,3 @@ describe('Teste do Projeto', () => {
 
 })
 
-export {
-    exibirNomeDogFormatado
-}

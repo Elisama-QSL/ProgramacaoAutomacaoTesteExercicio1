@@ -39,5 +39,6 @@ jobs:
 
       # executar os testes e2e
       - name: Executando Testes e2e
-        run: ../teste/01-testes.js
+        run: node../ProgramacaoAutomacaoTesteExercicio1/testes/01-testes.js
+   
 
